@@ -30,7 +30,7 @@ var $42;             VALID
 var userName;        VALID
 var x, y, z;                VALID
 var x = 5, y = 6, z = 7;    VALID
-var x = 5 + 10 + 2;         INVALID
+var x = 5 + 10 + 2;         VALID
 ```
 
 ## Basic Operations
